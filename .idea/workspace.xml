@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e361606d-874d-41bf-91b6-0f0fe5a43d22" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1awGpxEU1jBebMgCQXDUP3OwlpP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../template/templateshopping/gentelella-master/production/tables_dynamic.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AppServ\www\eticaret" />
+      <recent name="D:\AppServ\www\eticaret\nedmin" />
+      <recent name="D:\AppServ\www\eticaret\nedmin\production" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e361606d-874d-41bf-91b6-0f0fe5a43d22" name="Default Changelist" comment="" />
+      <created>1587639429005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587639429005</updated>
+      <workItem from="1587639430145" duration="32321000" />
+      <workItem from="1587901182172" duration="7730000" />
+      <workItem from="1587982313633" duration="8918000" />
+      <workItem from="1588069602926" duration="7204000" />
+      <workItem from="1588157758961" duration="4996000" />
+      <workItem from="1588244671207" duration="8949000" />
+      <workItem from="1588328020712" duration="10787000" />
+      <workItem from="1588415111933" duration="13800000" />
+      <workItem from="1588593821553" duration="9482000" />
+      <workItem from="1588675757523" duration="3793000" />
+      <workItem from="1590152210538" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
